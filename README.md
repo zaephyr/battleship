@@ -1,5 +1,7 @@
 # battleship
 
+link to the site: https://zaephyr.github.io/battleship/
+
 ## Project setup
 ```
 npm install
